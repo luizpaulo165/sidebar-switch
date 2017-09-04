@@ -2,18 +2,18 @@
     "name": "luizpaulo165.sidebar-switch-1",
     "title": "Switch Sidebar for Brackets",
     "description": "Switch Sidebar for Right Side in the Brackets.",
-    "homepage": "https://github.com/yourname/yourproject",
-    "version": "1.0.0",
+    "homepage": "https://github.com/luizpaulo165/sidebar-switch",
+    "version": "1.0.1",
     "author": "Luiz Paulo Valença <luizpaulo165@gmail.com> (http://twitter.com/luizpaulo165)",
-    "keywords":["sidebar","right","right side", "luizpaulo165", "side"],
+    "keywords":["sidebar","right","right side", "luizpaulo165", "side", "switch"],
     "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/luizpaulo165/sidebar-switch/issues"
+      },
     "engines": {
         "brackets": ">=0.24.0"
     },
-    "i18n": [ "en", "fr"],
-    "package-i18n": {
-        "fr": {
-            "description": "Plus de détails utiles pour laisser quelqu'un savoir ce que votre poste est tout au sujet."
-        }
-    }
+    "theme": {
+        "file": "sidebar-switch.css",
+      }
 }
