@@ -1,16 +1,13 @@
 # Switch Sidebar for Right side [Brackets](http://brackets.io)
 
-![Screenshot](https://cloud.githubusercontent.com/assets/205932/23592098/9bfb2a6a-01da-11e7-9c15-92709d6de5ce.png)
+![captura de tela 2017-09-04 as 9 33 42 am](https://user-images.githubusercontent.com/573227/30026655-3bccf376-9154-11e7-8f48-81b8f8239c75.png)
 
 ## Install
 
-This extension requires Brackets Release 1.0 or newer.
-
 1. Open Brackets
 2. Open the Extension Manager
-3. Switch to "Themes" tab
-4. Search for "Dracula Zeno Rocha"
-5. Click "Install"
+3. Search for "Switch Sidebar"
+4. Click "Install"
 
 ## License
 
