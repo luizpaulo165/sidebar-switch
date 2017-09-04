@@ -1,0 +1,10 @@
+.main-view .sidebar{
+    left:100%;
+}
+.main-view .content{
+    width: calc(100vw - 230px);
+    right: 0px!important;
+}
+#main-toolbar{
+    right:100%;
+}
