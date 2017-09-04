@@ -1,0 +1,20 @@
+{
+    "name": "switch-sidebar",
+    "title": "Sidebar in Right",
+    "description": "Switch Sidebar for Right Side in your Brackets.",
+    "homepage": "https://github.com/luizpaulo165/sidebar-switch",
+    "version": "1.0.5",
+    "author": "Luiz Paulo Valença <luizpaulo165@gmail.com>",
+    "keywords":["sidebar","right","right side", "luizpaulo165", "side", "switch"],
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:luizpaulo165/sidebar-switch.git"
+      },
+    "bugs": {
+        "url": "https://github.com/luizpaulo165/sidebar-switch/issues"
+    },
+    "engines": {
+        "brackets": ">=0.24.0"
+    }
+}
