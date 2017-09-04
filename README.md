@@ -8,7 +8,6 @@
 2. Open the Extension Manager
 3. Search for "Switch Sidebar"
 4. Click "Install"
-5. Restart the Brackets
 
 
 ## License
