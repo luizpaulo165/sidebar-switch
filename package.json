@@ -1,9 +1,9 @@
 {
-    "name": "switch-sidebar",
-    "title": "Switch Sidebar",
+    "name": "switch-sidebar-v-2",
+    "title": "Switch Sidebar 2v",
     "description": "Switch Sidebar for Right Side in your Brackets.",
     "homepage": "https://github.com/luizpaulo165/sidebar-switch",
-    "version": "1.0.5",
+    "version": "2.0.0",
     "author": "Luiz Paulo Valença <luizpaulo165@gmail.com>",
     "keywords":["sidebar","right","right side", "luizpaulo165", "side", "switch"],
     "license": "MIT",
