@@ -9,11 +9,11 @@
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/luizpaulo165/sidebar-switch/issues"
-      },
+    },
     "engines": {
         "brackets": ">=0.24.0"
     },
     "theme": {
-        "file": "sidebar-switch.css",
-      }
+        "file": "sidebar-switch.css"
+    }
 }
