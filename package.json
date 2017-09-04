@@ -12,8 +12,5 @@
     },
     "engines": {
         "brackets": ">=0.24.0"
-    },
-    "theme": {
-        "file": "sidebar-switch.css"
     }
 }
